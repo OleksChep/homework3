@@ -1,0 +1,51 @@
+	
+	* {
+		margin: 0;
+		padding:0;
+	}
+	.notetitle {
+		margin-top: 100px; 
+		margin-left: 140px; 
+		display: inline; 
+		background: white;
+		font-size: 54px; 
+		white-space: nowrap; 
+   }
+	div {
+		background: white;
+		margin-top: 1px; 
+		margin-left: 100px;
+		margin-bottom: 20px;
+	}
+	img {
+		margin-left: 400px;
+		height: 300px;
+	} 
+	.box {background: white;
+		height: 150px;
+		width: 500px;
+		margin-left: 350px;
+	}
+	a {
+		background: white;
+		color: black;
+		padding: 10px;
+		margin: 10px;
+	}
+	abbr {
+		margin-left: 300px;
+	}
+	#navbar {
+		list-style-type: none;
+		width: 150px;
+		margin-top: 50px; 
+		margin-left: 120px;
+	}
+	#navbar a {
+		background-color: white;
+		color: black;
+		padding: 5px;
+		text-decoration: none;
+		display: block;
+	}
+	
